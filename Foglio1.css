@@ -1,8 +1,9 @@
-{   
-    background-color: #f44336;
-    color: white;
-    padding: 14px 25px;
-    text-align: center; 
-    text-decoration: none;
-    display: inline-block;
+body {
+    background-color: #d0b0e6;
+  }
+  h1 {
+    color: black;
+  }
+  p {
+    color: black;
   }
