@@ -1,11 +1,16 @@
-
-  h1 {
+body{
     background-color: white;
     color: black;
-    font;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+ 
+ h1 {
+    background-color: #f5c4fc;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
   }
   p1 {
-    background-color: #e1c0ff;
+    background-color:white;
     color: black;
   font  
   }
