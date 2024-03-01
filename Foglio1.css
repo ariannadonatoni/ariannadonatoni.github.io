@@ -2,13 +2,14 @@ body{
     background-color: white;
     color: black;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    text-align: center
+    
   }
  
  h1 {
     background-color: #f5c4fc;
     color: black;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center
   }
   p1 {
     background-color:white;
