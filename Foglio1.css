@@ -3,7 +3,7 @@
     color: black;
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: center
-a:link, a:visited {
+a:link {
   background-color: #ff66ff;
   color: white;
   padding: 14px 25px;
