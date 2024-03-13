@@ -3,10 +3,4 @@
     color: black;
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: center;
-a:link {
-  background-color: #ff66ff;
-  color: white;
-  padding: 14px 25px;
-  text-align: right;
-  text-decoration: none;
-  display: inline-block;
+}
