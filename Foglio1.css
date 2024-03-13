@@ -1,18 +1,12 @@
-body{
-    background-color: white;
-    color: black;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    
-  }
- 
  h1 {
     background-color: #f5c4fc;
     color: black;
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: center
-  }
-  p1 {
-    background-color:white;
-    color: black;
-  font  
-  }
+a:link, a:visited {
+  background-color: #ff66ff;
+  color: white;
+  padding: 14px 25px;
+  text-align: right;
+  text-decoration: none;
+  display: inline-block;
