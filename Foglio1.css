@@ -6,18 +6,4 @@ h1 {
 
 img { width: 50%;
 }
-.topnav {
-  overflow: hidden;
-  background-color: #f7e6ff;
-}
-.topnav a {
-  float: left;
-  display: block;
-  color: #f2f2f2;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-.topnav a:hover {
-  background-color: #ddd;
-  color: #e6b3ff;
-}
+
