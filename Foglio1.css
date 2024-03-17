@@ -10,16 +10,18 @@ margin-top: 0px;
 
 img { width: 50%;
 }
-
-a:link {
-  color: red;
+.topnav {
+  overflow: hidden;
+  background-color: #f7e6ff;
 }
-a:visited {
-  color: green;
-}
-a:hover {
-  color: hotpink;
-}
-a:active {
-  color: blue;
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+.topnav a:hover {
+  background-color: #ddd;
+  color: #e6b3ff;
 }
