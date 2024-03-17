@@ -3,9 +3,19 @@ h1 {
   text-align: center;
   padding: 25px;
 }
-a {background-color: #f2ccff;
-  text-align: center;
-  padding: 10px;
-}
+
 img { width: 50%;
+}
+
+a:link {
+  color: red;
+}
+a:visited {
+  color: green;
+}
+a:hover {
+  color: hotpink;
+}
+a:active {
+  color: blue;
 }
