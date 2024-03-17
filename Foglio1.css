@@ -3,5 +3,9 @@ h1 {
   text-align: center;
   padding: 25px;
 }
+a {background-color: #f2ccff;
+  text-align: center;
+  padding: 10px;
+}
 img { width: 80%;
 }
