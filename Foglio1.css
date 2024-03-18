@@ -2,10 +2,29 @@ header {
   background-color: #f2ccff; 
 }
 
+a:link {
+  color: black;
+}
+
+a:visited {
+  color: purple;
+}
+
+
+a:hover {
+  color: white;
+}
+
+a:active {
+  color: purple;
+}
+
+
 h1 {
   background-color: #f2ccff;
   text-align: center;
   padding: 25px; 
+  
 }
 
 img { width: 50%;
