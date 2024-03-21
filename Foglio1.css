@@ -1,7 +1,8 @@
 
 a { 
   text-align: center;
-}  
+  font-size: 27px;
+    }  
 a:link {
   color: black;
   background-color: #f9e6ff;
@@ -33,7 +34,7 @@ h1 {
   background-color: #f2ccff;
   text-align: center;
   padding: 25px; 
-  
+  font-size: 50px;  
 }
 
 img { width: 50%;
@@ -42,4 +43,5 @@ img { width: 50%;
 
 body{
   font-family: "Lucida Console", "Courier New", monospace;
-}
+  font-size: 20px;
+    }
