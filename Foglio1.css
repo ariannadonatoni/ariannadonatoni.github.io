@@ -7,23 +7,28 @@ a {
 }  
 a:link {
   color: black;
-  
+  background-color: #f9e6ff;
+
 }
 
 a:visited {
   color: black;
   text-decoration: none;
-  }
+  background-color: #f9e6ff;  
+
+}
 
 
 a:hover {
   color: white;
   text-decoration: none;
+background-color: #ecb3ff;  
 }
 
 a:active {
   color: black;
   text-decoration: none;
+  background-color: #f9e6ff;
 }
 
 
