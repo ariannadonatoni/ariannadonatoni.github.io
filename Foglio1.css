@@ -42,3 +42,7 @@ h1 {
 img { width: 50%;
   
 }
+
+body{
+  font-family: "Lucida Console", "Courier New", monospace;
+}
