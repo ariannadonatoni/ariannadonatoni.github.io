@@ -7,7 +7,8 @@ a:link {
   text-decoration: none;
   color: black;
   background-color: #f9e6ff;
-
+  padding: 14px 25px;
+  display: inline-block;  
 }
 
 a:visited {
