@@ -38,11 +38,11 @@ ul {
   background-color: #f9e6ff;
 }
 
-li {
+li1 {
   float: left;
 }
 
-li a {
+li1 a {
   display: block;
   color: black;
   text-align: center;
@@ -50,7 +50,7 @@ li a {
   text-decoration: none;
 }
 
-li a:hover:not(.active) {
+li1 a:hover:not(.active) {
   background-color: #ecb3ff;
   color: white;
 }
