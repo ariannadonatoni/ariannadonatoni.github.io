@@ -7,14 +7,14 @@ a {
     }  
 
 
-
 h1 {
   background-color: #f2ccff;
   text-align: center;
   padding: 20px; 
   font-size: 60px;  
   font-family: "Brush Script MT", cursive;
-}
+  text-decoration-line: underline;
+  text-decoration-color: #f9e6ff}
 
 img { width: 50%;
   
@@ -22,6 +22,7 @@ img { width: 50%;
 
 body{
   font-size: 20px;
+  
     }
 video {
   width: 100%
