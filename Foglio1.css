@@ -24,6 +24,11 @@ body{
   font-size: 20px;
    text-align: center;
     }
+div {
+ align: center;
+    }
+
+
 div.gallery {
   margin: 5px;
   border: 0px solid #ccc;
