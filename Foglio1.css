@@ -20,6 +20,10 @@ img { width: 50%;
   
 }
 
+h3.italic {
+  font-style: italic;
+}
+
 body{
   font-size: 20px;
    text-align: left;
