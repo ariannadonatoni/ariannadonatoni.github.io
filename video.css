@@ -1,3 +1,61 @@
+header {
+  background-color: #f2ccff;
+}
+a { 
+  text-align: center;
+  font-size: 23px;
+    }  
+
+
+h1 {
+  background-color: #f2ccff;
+  text-align: center;
+  padding: 20px; 
+  font-size: 60px;  
+  font-family: "Brush Script MT", cursive;
+  
+}
+
+
+h3.italic {
+  font-style: italic;
+}
+
+body{
+  font-size: 20px;
+   text-align: left;
+   font-family: Arial, sans-serif;
+   }
+
 video {
   width: 100%
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #f9e6ff;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: #ecb3ff;
+  color: white;
+}
+
+.active {
+  background-color: #f9e6ff;
 }
