@@ -29,15 +29,12 @@ body{
    text-align: left;
    font-family: Arial, sans-serif;
    }
-div {
- align: center;
-    }
 
 
 div.gallery {
   margin: 5px;
   border: 0px solid #ccc;
-  float: left;
+  float: center;
   width: 500px;
 }
 
