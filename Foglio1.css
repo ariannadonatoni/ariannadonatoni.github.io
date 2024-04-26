@@ -6,14 +6,10 @@ a {
   font-size: 23px;
     }  
 
-    .contenitore {
-        text-align: center; /* Centra il contenuto orizzontalmente */
-    }
-
     .contenitore img {
         display: block; 
         margin: 0 auto; 
-        max-width: 25%; 
+       width: 25%; 
         height: auto; 
     }
 
