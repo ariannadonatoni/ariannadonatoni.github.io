@@ -6,9 +6,9 @@ a {
   font-size: 23px;
     }  
 
-img.acro {
+img.center {
   width: 25%;
-
+float: center;
 }
 h1 {
   background-color: #f2ccff;
