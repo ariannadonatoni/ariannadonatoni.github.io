@@ -6,10 +6,18 @@ a {
   font-size: 23px;
     }  
 
-img.center {
-  width: 25%;
-float: center;
-}
+    .contenitore {
+        text-align: center; /* Centra il contenuto orizzontalmente */
+    }
+
+    .contenitore img {
+        display: block; 
+        margin: 0 auto; 
+        max-width: 25%; 
+        height: auto; 
+    }
+
+
 h1 {
   background-color: #f2ccff;
   padding: 20px; 
