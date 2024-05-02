@@ -32,9 +32,11 @@ h3.italic {
 }
 
 body{
-  font-size: 20px;
+  font-family: Roboto, Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 1.5;
    text-align: left;
-   font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
    }
