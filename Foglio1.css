@@ -76,7 +76,8 @@ ul {
 }
 
 li {
-  float: left;
+  float: center;
+  display: none;
 }
 
 li a {
