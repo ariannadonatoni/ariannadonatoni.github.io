@@ -1,3 +1,10 @@
+ *:before, *:after {
+    box-sizing: inherit;
+}
+ *:before, *:after {
+    box-sizing: inherit;
+}
+
 header {
   background-color: #f2ccff;
 }
