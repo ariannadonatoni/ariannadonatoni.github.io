@@ -30,6 +30,7 @@ img { width: 50%;
 
 h3.italic {
   font-style: italic;
+  margin: 40px;
 }
 
 body{
@@ -42,7 +43,7 @@ body{
     padding: 0;
    }
 p.margin{
-  margin: 30px;
+  margin: 40px;
 }
 
 div.gallery {
