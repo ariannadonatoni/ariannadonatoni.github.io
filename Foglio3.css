@@ -62,6 +62,9 @@ li a:hover:not(.active) {
 p {
   margin: 50px;
 }
+h3 {
+  margin: 50px;
+}
 footer {
   background-color: #f2ccff;
   padding: 30px;
