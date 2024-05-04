@@ -71,3 +71,20 @@ footer {
   text-align: center;
   color: black;
 }
+
+div.slideprima {
+  width: 200px;
+  float: left;
+}
+div.slideseconda {
+  width: 200px;
+  float: right;
+}
+div.slideterza {
+  width: 200px;
+  float: left;
+}
+div.slidequarta {
+  width: 200px;
+  float: right;
+}
