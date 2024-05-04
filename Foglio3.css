@@ -80,7 +80,7 @@ footer {
   position: absolute;
   inset: 0;
   opacity: 0;
-  animation: slide-show 16s infinite;
+  animation: slide-show 12s infinite;
 }
 .slide--2 {
   animaton-delay: 4s;
@@ -89,8 +89,6 @@ footer {
 .slide--3 {
   animaton-delay: 8s;
 }
-.slide--4 {
-  animation-delay: 12s;
 
 .slide_image {
   width:100%;
