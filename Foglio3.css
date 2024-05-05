@@ -60,10 +60,10 @@ li a:hover:not(.active) {
   background-color: #f9e6ff;
 }
 p {
-  margin: 50px;
+  margin: 100px;
 }
-h3 {
-  margin: 50px;
+h2 {
+  margin: 100px;
 }
 footer {
   background-color: #f2ccff;
