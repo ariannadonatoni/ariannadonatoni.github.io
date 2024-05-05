@@ -65,3 +65,9 @@ li a:hover:not(.active) {
 .active {
   background-color: #f9e6ff;
 }
+footer {
+  background-color: #f2ccff;
+  padding: 40px;
+  text-align: center;
+  color: white;
+}
