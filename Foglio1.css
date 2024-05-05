@@ -75,6 +75,9 @@ img { width: 50%;
   opacity: 1;
 }
 
+.container1:hover .overlay1 {
+  opacity: 1;
+}
 .text {
   color: white;
   font-size: 20px;
