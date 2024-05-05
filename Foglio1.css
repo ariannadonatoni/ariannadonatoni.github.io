@@ -31,6 +31,7 @@ img { width: 50%;
 .container {
   position: relative;
   width: 50%;
+  float: left;
 }
 
 .image {
