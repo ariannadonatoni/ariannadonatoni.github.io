@@ -105,3 +105,22 @@ img {
   overflow-clip-margin: content-box;
   overflow: clip;
 }
+.w3-text-white, .w3-text-white: hover {
+  color: #fff !important;
+}
+.w3-section, w3-code {
+  margin-top: 16px !important;
+  margin-bottom: 16px !important;
+}
+.w3-center {
+  text-align: center !important;
+}
+.w3-large {
+  font-size: 18px !important;
+}
+.w3-display-bottommiddle {
+  position: absolute;
+  left: 50%;
+  bottom: 0;
+  transformation: translate (-50%, 0%);
+  
