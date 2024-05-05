@@ -103,7 +103,7 @@ img { width: 50%;
 h3.italic {
   font-style: italic;
   margin: 100px;
-  align: center;
+  text-align: center;
 }
 p.coreo { 
   margin: 100px;
@@ -120,7 +120,7 @@ body{
    }
 p.margin{
   margin: 100px;
-  align: center;
+  text-align: center;
 }
 
 div.gallery {
