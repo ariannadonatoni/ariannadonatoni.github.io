@@ -71,7 +71,20 @@ footer {
   text-align: center;
   color: black;
 }
-
-div.slideshow {
-  width: 30px;
+.w3-content {
+  max-width: 980px
 }
+.w3-content, .w3-auto {
+  margin-left: auto;
+  margin-right: auto;
+}
+.w3-tooltip, .w3-display-container {
+  position: relative;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+  div {
+    display: block;
+    unicde-bidi: isolate;
+  }
