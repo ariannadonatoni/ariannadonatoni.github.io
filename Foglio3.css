@@ -88,3 +88,20 @@ footer {
     display: block;
     unicde-bidi: isolate;
   }
+element.style {
+  width: 100%;
+  display: none;
+}
+.mySlides {
+  display: none;
+}
+img {
+  vertical-align: middle;
+}
+img {
+  border-style: none;
+}
+img {
+  overflow-clip-margin: content-box;
+  overflow: clip;
+}
