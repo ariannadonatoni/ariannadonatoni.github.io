@@ -109,8 +109,8 @@ img {
   color: #fff !important;
 }
 .w3-section, w3-code {
-  margin-top: 16px !important;
-  margin-bottom: 16px !important;
+  margin-top: 0px !important;
+  margin-bottom: 0px !important;
 }
 .w3-center {
   text-align: center !important;
