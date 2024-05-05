@@ -95,9 +95,9 @@ img { width: 50%;
 }
 h3.italic {
   font-style: italic;
-  margin: 50px;
+  margin: 80px;
 }
-p.coreo { margin: 50px;
+p.coreo { margin: 80px;
         }
   
 body{
@@ -110,7 +110,7 @@ body{
     padding: 0;
    }
 p.margin{
-  margin: 50px;
+  margin: 80px;
 }
 
 div.gallery {
@@ -132,10 +132,6 @@ div.gallery img {
 div.desc {
   padding: 30px;
   text-align: center;
-}
-
-video {
-  width: 100%
 }
 
 ul {
