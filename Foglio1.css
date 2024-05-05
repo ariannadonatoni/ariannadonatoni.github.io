@@ -33,7 +33,11 @@ img { width: 50%;
   width: 50%;
   float: left;
 }
-
+.container1 {
+  position: relative;
+  width: 50%;
+  float: left;
+}
 .image {
   display: block;
   width: 100%;
