@@ -100,7 +100,7 @@ img { width: 50%;
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
 }
-h3.italic {
+h2.italic {
   font-style: italic;
   margin: 100px;
   text-align: center;
