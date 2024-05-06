@@ -21,6 +21,12 @@ h1 {
   
 }
 
+h3.italic {
+  font-style: italic;
+  margin: 100px;
+}
+
+
 p {
   margin: 50px;
 }
