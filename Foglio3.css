@@ -121,7 +121,6 @@ img {
 .w3-display-bottommiddle {
   position: absolute;
   left: 50%;
-  right: 50%;
   bottom: 0;
   transformation: translate (-50%, 0%);
 }
