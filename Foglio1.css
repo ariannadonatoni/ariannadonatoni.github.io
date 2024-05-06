@@ -83,7 +83,7 @@ img { width: 50%;
   opacity: 1;
 }
 .text {
-  color: white;
+  color: black;
   font-size: 50px;
   position: absolute;
   top: 50%;
@@ -92,7 +92,7 @@ img { width: 50%;
   -ms-transform: translate(-50%, -50%);
 }
 .text1 {
-  color: white;
+  color: black;
   font-size: 50px;
   position: absolute;
   top: 50%;
