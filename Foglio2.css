@@ -42,6 +42,10 @@ body{
     padding: 0;
    }
 
+a.highlight:hover {
+  opacity: 0.5;
+}
+
 ul {
   list-style-type: none;
   margin: 0;
@@ -49,10 +53,7 @@ ul {
   overflow: hidden;
   background-color: #f9e6ff;
 }
-a.highlight:hover {
-  color: #9900e6;
-  font-size: 22px;
-} 
+
 
 li {
   float: left;
