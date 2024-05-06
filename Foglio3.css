@@ -122,5 +122,5 @@ img {
   position: absolute;
   left: 50%;
   bottom: 0;
-  transformation: translate (-50%, 0%);
+  transformation: translate (50%, 0%);
 }
