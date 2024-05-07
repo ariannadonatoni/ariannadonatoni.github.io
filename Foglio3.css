@@ -20,7 +20,15 @@ h1 {
   font-family: "Brush Script MT", cursive;
   
 }
-
+div.padding {
+  max-width: 1500px;
+  margin: 100px auto;
+  padding: 35px;
+  background-color: #f2f2f2;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  text-align: left;
+}
 body{
   font-family: Roboto, Helvetica, Arial, sans-serif;
     font-size:20px;
