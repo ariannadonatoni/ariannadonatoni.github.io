@@ -168,7 +168,7 @@ footer {
 }
 
 .column {
-  float: left;
+  float: center;
   width: 25%;
   padding: 15px;
 margin: 50px;
