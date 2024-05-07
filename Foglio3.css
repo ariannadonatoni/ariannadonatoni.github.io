@@ -132,14 +132,14 @@ w3-right w3-hover-text-khaki{
   position: right;
 }
 div.polaroid {
-  width: 250px;
+  width: 450px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   text-align: center;
   margin: 60px;
 }
 
 div.gara {
-  padding: 10px;
+  padding: 50px;
 }
 h2.italic {
   font-style: italic;
