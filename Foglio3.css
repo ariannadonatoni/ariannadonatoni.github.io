@@ -134,3 +134,7 @@ div.polaroid {
 div.gara {
   padding: 10px;
 }
+h2.italic {
+  font-style: italic;
+  margin: 100px;
+}
