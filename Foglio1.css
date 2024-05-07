@@ -21,6 +21,7 @@ div.padding {
   background-color: white;
 border: 2px solid white;
   border-radius: 8px;  
+  margin: 100px;
 }
 h1 {
   background-color: #f2ccff;
