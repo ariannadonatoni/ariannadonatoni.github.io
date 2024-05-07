@@ -13,7 +13,9 @@ a {
        width: 25%; 
         height: auto; 
     }
-
+div.blocca {
+  position: fixed;
+}
 div.padding {
  width: 800px;
   padding: 25px;
