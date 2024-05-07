@@ -125,6 +125,12 @@ img {
   bottom: 0;
   transformation: translate (50%, 0%);
 }
+w3-left w3-hover-text-khaki{
+  position: left;
+}
+w3-right w3-hover-text-khaki{
+  position: right;
+}
 div.polaroid {
   width: 250px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
