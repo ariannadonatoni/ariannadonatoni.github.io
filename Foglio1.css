@@ -161,6 +161,7 @@ footer {
   float: left;
   width: 30.99%;
   padding: 15px;
+  margin: 100px;
 }
 
 .row::after {
