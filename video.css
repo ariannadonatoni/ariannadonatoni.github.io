@@ -29,11 +29,6 @@ h1 {
   
 }
 
-
-h3.italic {
-  font-style: italic;
-}
-
 body{
   font-size: 20px;
    text-align: left;
@@ -77,8 +72,7 @@ footer {
 }
 
 h2.italic {
-  font-style: italic;
-  margin: 100px;
+  font-style: italic;;
 }
 
 .center {
