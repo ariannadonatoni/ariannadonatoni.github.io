@@ -85,7 +85,10 @@ h2.italic {
   padding: 70px 0;
   border: 0px;
 }  
-  
+.image {
+   padding: 70px 0;
+  border: 0px;
+}  
 footer {
   background-color: #f2ccff;
   padding: 40px;
