@@ -84,5 +84,8 @@ section.video {
   margin: 100px;
 }
 
-
+.center {
+  padding: 70px 0;
+  border: 0px;
+}  
   
