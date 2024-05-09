@@ -151,3 +151,7 @@ h2.italic {
   font-style: italic;
   margin: 20px;
 }
+
+div.contenitore {
+display: inline-block; 
+}
