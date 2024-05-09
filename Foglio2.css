@@ -75,7 +75,7 @@ li a:hover:not(.active) {
 .active {
   background-color: #f9e6ff;
 }
-div.padding {
+tr.padding {
 max-width: 1500px;
   margin: 100px auto;
   padding: 35px;
