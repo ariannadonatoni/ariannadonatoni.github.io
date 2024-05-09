@@ -155,3 +155,30 @@ h2.italic {
 div.contenitore {
 display: inline-block; 
 }
+
+.column {
+  float: left;
+  width: 24%;
+  padding: 15px;
+margin: 50px;
+}
+
+.row::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+@media screen and (max-width:550px) {
+  .column {
+    width: 100%;
+  }
+}
+img.prese {
+  width:100%;
+}
+div.coreo {
+  margin-top: 100px;
+  margin-left: 100px;
+}
