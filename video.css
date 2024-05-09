@@ -89,3 +89,9 @@ section.video {
   border: 0px;
 }  
   
+footer {
+  background-color: #f2ccff;
+  padding: 40px;
+  text-align: center;
+  color: black;
+}
