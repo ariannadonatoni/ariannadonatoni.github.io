@@ -90,3 +90,15 @@ footer {
   text-align: center;
   color: black;
 }
+
+div.center {
+max-width: 1500px;
+  margin: 100px auto;
+  padding: 35px;
+  background-color: #f2f2f2;
+  border-radius: 15px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  text-align: left;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
